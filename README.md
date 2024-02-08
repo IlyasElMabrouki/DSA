@@ -4,3 +4,4 @@
 - Merge Two Sorted Lists
 - Remove Element
 - Remove Duplicates from Sorted Array
+- Find the Index of the First Occurrence in a String
