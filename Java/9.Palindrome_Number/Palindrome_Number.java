@@ -1,4 +1,4 @@
-class Solution {
+public class Palindrome_Number {
     public boolean isPalindrome(int x) {
         
         if (x<0){
@@ -19,7 +19,7 @@ class Solution {
     }
 
     public static void main(String[] args) throws Exception {
-        Solution app = new Solution();
+        Palindrome_Number app = new Palindrome_Number();
         System.out.println(app.isPalindrome(121));
     }
 }

@@ -1,5 +1,4 @@
-class Solution {
-
+public class Longest_Common_Prefix {
   public String longestCommonPrefix(String[] strs) {
     String commStr = "";
     StringBuilder stringBuilder = new StringBuilder(commStr);
@@ -27,7 +26,7 @@ class Solution {
   }
 
   public static void main(String[] args) throws Exception {
-    Solution app = new Solution();
+    Longest_Common_Prefix app = new Longest_Common_Prefix();
     String[] strs = { "ab", "a" };
     System.out.println(app.longestCommonPrefix(strs));
   }

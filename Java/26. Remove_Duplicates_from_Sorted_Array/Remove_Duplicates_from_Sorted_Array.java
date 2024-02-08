@@ -1,4 +1,4 @@
-public class Solution {
+public class Remove_Duplicates_from_Sorted_Array {
     public int removeDuplicates(int[] nums) {
         //Check if the array is empty
         if (nums.length == 0) return 0;

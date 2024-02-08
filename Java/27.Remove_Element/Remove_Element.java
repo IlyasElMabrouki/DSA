@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Solution {
+public class Remove_Element {
     public static final int UNDERSCORE_VALUE = -1;
     public int removeElement(int[] nums, int val) {
         ArrayList<Integer> values = new ArrayList<>();

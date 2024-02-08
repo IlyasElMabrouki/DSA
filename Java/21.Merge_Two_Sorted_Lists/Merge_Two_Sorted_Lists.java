@@ -1,4 +1,4 @@
-class Solution {
+public class Merge_Two_Sorted_Lists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
@@ -32,7 +32,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
+        Merge_Two_Sorted_Lists s = new Merge_Two_Sorted_Lists();
         s.show(s.mergeTwoLists(new ListNode(), new ListNode(0)));
     }
 }
