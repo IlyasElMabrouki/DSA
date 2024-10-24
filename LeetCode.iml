@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java/14.Longest_Common_Prefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/21.Merge_Two_Sorted_Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/26. Remove_Duplicates_from_Sorted_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/27.Remove_Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/09.Palindrome_Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/28.Find_Index_First_Occurrence_String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/58.Length_Last_Word" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
