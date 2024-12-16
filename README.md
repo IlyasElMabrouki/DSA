@@ -1,8 +1,7 @@
-## Solutions to Leetcode problems
-- Palindrome Number
-- Longest Common Prefix
-- Merge Two Sorted Lists
-- Remove Element
-- Remove Duplicates from Sorted Array
-- Find the Index of the First Occurrence in a String
-- Length of Last Word
+## Implemented Data Structures
+1. Dynamic Array
+2. Linked List
+3. Stack
+4. Binary Tree
+5. Binary Search Tree
+6. AVL Tree
